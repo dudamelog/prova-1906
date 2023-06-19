@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-image: url(img/ec58a082126a29f6ae9a07aa49ee76e6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+}
+
+header {
+    padding: 1px;
+    background-color: rgb(3, 9, 6);
+    text-align: center;
+    color: antiquewhite;
+}
+
+#footer{
+    padding: 1px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+
+}
+
+
+#menu{
+    padding: 1px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.332);
+}
